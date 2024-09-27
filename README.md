@@ -1,2 +1,2 @@
 # Repo-2
-# This is readme file of branch1
+# This is readme file of branch2
